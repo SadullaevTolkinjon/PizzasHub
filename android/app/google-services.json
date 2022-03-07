@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552409155655",
+    "project_id": "pizzadessert-d906a",
+    "storage_bucket": "pizzadessert-d906a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552409155655:android:e43195ad9045b657e4c962",
+        "android_client_info": {
+          "package_name": "com.pizza.pizzadeeserts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552409155655-m080pqpk7qd52m7o8kkhgnffsvhtsumr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2PUVvKt1sQN_7DiJnpO4qO3QQ3nhJxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552409155655-m080pqpk7qd52m7o8kkhgnffsvhtsumr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
